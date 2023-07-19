@@ -8,16 +8,18 @@ The Baskerville team are holding a 1-day remote drop-in session for all users of
 
 ## :calendar: Schedule
 
-| Time | Topic | Led By |
-| ---- | ----- | ------ |
-| 09:30 - 10:30 | Topic 1  (1 hour) | |
-| 10:30 - 10:45 | Break |
-| 10:45 - 12:15 | Topic 2  (1.5 hours) | |
-| 12:15 - 13:15 | Lunch |
-| 13:15 - 14:45 | Topic 3  (1.5 hours) | |
-| 14:45 - 15:45 | Topic 4  (1 hour) | |
-| 15:45 - 16:00 | Break |
-| 16:00 - 17:00 |  Topic 5  (1 hour) | |
+| Time          | Topic                                                                            | Led By | Helper | HackMD |
+| ------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ |
+| 09:30 - 10:30 | Logging in and Module Loading (1h)                                           | Dimitrios       |  Gavin      | James        |
+| 10:30 - 10:45 | Break (15m)                                                                           |        |        |        |
+| 10:45 - 12:15 | Non-Interactive Batch Jobs (`sbatch`) and Interactive Jobs (`srun`)  (1h30) | James & Gavin | Simon       | Jenny       |
+| 12:15 - 13:15 | Lunch (1h)                                                                           |        |        |        |
+| 13:15 - 14:30 | Self-installed software with `pip` and `conda`  (1h15)                      | Simon & Jenny | James       | Gavin       |
+| 14:30 - 14:45 | Break (15m)                                                                           |        |        |        |
+| 14:45 - 15:45 | VS Code Remote Tunnels  (1h)                                                 | Jenny  |  Simon      | Simon        |
+| 14:45 - 15:45 | RELION Breakout Session (1h)                                                     | Gavin  | Dimitrios       | James       |
+| 15:45 - 16:00 | Break (15m)                                                                            |        |        |        |
+| 16:00 - 17:00 | Data Transfers with Globus  (1h)                                             | James  | Dimitrios       |  Gavin      |
 
 ## Content
 
@@ -25,13 +27,14 @@ The Baskerville team are holding a 1-day remote drop-in session for all users of
 2023-07-26-remote-drop-in
 ├── LICENSE.md
 ├── README.md
-└── img
-    └── logo.png
+├── img
+│   └── logo.png
+└── presentations
 ```
 
 ## Support
 
-For user support, email us at baskerville-tier2-support@contacts.bham.ac.uk
+For technical user support, email us at baskerville-tier2-support@contacts.bham.ac.uk
 
 ## Acknowledgements
 

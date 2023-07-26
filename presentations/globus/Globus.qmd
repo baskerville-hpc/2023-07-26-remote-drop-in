@@ -1,0 +1,68 @@
+---
+title: "Introduction to Baskerville: File Transfers with Globus"
+author: "James Allsopp and Baskerville Team"
+format:
+  revealjs:
+    incremental: false
+    theme: moon
+    footer: "File transfers with Globus.org"
+    logo: RSG.png
+    css: logo.css
+    fig-cap-location: margin
+    code-line-numbers: true
+    fontsize: 30px
+    width: 1500
+    link-external-icon: true
+---
+
+## Globus - Fast secure and accurate file transfers
+
+Recent convert to Globus
+
+Alternatives;
+
++ SCP - deprecated due to security
++ rsync - complicated syntax, no encryption, no confirmation or emails.
+
+
+SDK/API also available [https://globus-sdk-python.readthedocs.io/en/stable/](https://globus-sdk-python.readthedocs.io/en/stable/)
+
+
+## Globus Login
+
+![Globus Login](GlobusLogin.png){height=550}
+
+
+## Globus Login2
+
+
+![Globus Login2](GlobusLogin2.png){height=550}
+
+## One Pane File Manager
+
+![One Pane File Manager](OnePaneFileManager.png){height=550}
+
+## Bear Two Pane File Manager
+
+![BearTwoPaneFileManager](BearTwoPaneFileManager.png){height=550}
+
+## BlueBEAR Settings
+
+![BlueBEAR Settings](BlueBearSettings.png){height=550}
+
+## Transfer Eight 1G Files
+
+![Transfer Eight 1G Files](TransferEight1GFiles.png){height=550}
+
+## Success Email
+
+![Success Email](SuccessEmail.png){height=550}
+
+## Activity
+
+![Activity](Activity.png){height=550}
+
+
+## Globus Connect Personal - [Install](https://www.globus.org/globus-connect-personal)
+
+![GlobusConnectPersonal](GlobusConnectPersonal.png){height=550}

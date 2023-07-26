@@ -1,0 +1,6 @@
+project:
+  title: "vscode"
+  preview: 
+    browser: false
+    watch-inputs: true
+    port: 5930

@@ -25,6 +25,7 @@ The Baskerville team are holding a 1-day remote drop-in session for all users of
 
 ```bash
 2023-07-26-remote-drop-in
+├── HackMD.md
 ├── LICENSE.md
 ├── README.md
 ├── img
@@ -32,14 +33,18 @@ The Baskerville team are holding a 1-day remote drop-in session for all users of
 ├── presentations
 │   ├── 01-logging-in-and-module-loading
 │   ├── 02a-non-interactive-batch-jobs
-│   └── 02b-interactive-jobs
+│   ├── 02b-interactive-jobs
+│   ├── 03b-self-installed-software-with-conda
+│   ├── 03b-self-installed-sotware-with-conda
+│   ├── 04a-vscode-remote-development
+│   └── 05-data-transfers-with-globus
 └── src
     └── non-interactiveSlurm
 ```
 
 ## Support
 
-For technical user support, email us at baskerville-tier2-support@contacts.bham.ac.uk
+For technical user support, email us at [baskerville-tier2-support@contacts.bham.ac.uk](mailto:baskerville-tier2-support@contacts.bham.ac.uk)
 
 ## Acknowledgements
 

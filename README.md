@@ -29,7 +29,12 @@ The Baskerville team are holding a 1-day remote drop-in session for all users of
 ├── README.md
 ├── img
 │   └── logo.png
-└── presentations
+├── presentations
+│   ├── 01-logging-in-and-module-loading
+│   ├── 02a-non-interactive-batch-jobs
+│   └── 02b-interactive-jobs
+└── src
+    └── non-interactiveSlurm
 ```
 
 ## Support

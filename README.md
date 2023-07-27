@@ -34,7 +34,7 @@ The Baskerville team are holding a 1-day remote drop-in session for all users of
 │   ├── 01-logging-in-and-module-loading
 │   ├── 02a-non-interactive-batch-jobs
 │   ├── 02b-interactive-jobs
-│   ├── 03b-self-installed-software-with-conda
+│   ├── 03a-self-installed-software-with-pip
 │   ├── 03b-self-installed-sotware-with-conda
 │   ├── 04a-vscode-remote-development
 │   └── 05-data-transfers-with-globus

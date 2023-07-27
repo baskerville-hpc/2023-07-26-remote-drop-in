@@ -40,6 +40,7 @@ The Baskerville team are holding a 1-day remote drop-in session for all users of
 │   └── 05-data-transfers-with-globus
 └── src
     └── non-interactiveSlurm
+    └── pip-scripts
 ```
 
 ## Support
